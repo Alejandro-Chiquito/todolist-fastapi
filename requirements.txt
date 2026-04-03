@@ -2,3 +2,7 @@ fastapi[standard]
 sqlalchemy
 pydantic-settings
 python-multipart
+pydantic
+alembic
+asyncpg
+psycopg2-binary
